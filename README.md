@@ -1,4 +1,4 @@
-This repository contains 22 Machine Learning and deep learning Projects. The coding is done using Python on a Jupyter Notebook. The datasets used are available on the Kaggle site.
+This repository contains Machine Learning and deep learning Projects. The coding is done using Python on a Jupyter Notebook. The datasets used are available on the Kaggle site.
 The first project uses principal component analysis for dimensionality reduction. IRIS Dataset is used for analysis.
 The Second Project involves using a Support Vector Machine Classifier. Different Kernels are used, and comparisons are made.
 The third Project demonstrates the use of Convolutional Neural Networks for image processing/classification. Fashion Mnist DataSet is used 
